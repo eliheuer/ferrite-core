@@ -99,7 +99,7 @@ rm -rf master_ufo BUILD_VENV
 # GOOGLE FONTS FLAG ONLY SECTION
 # METADATA
 metadata='name: "Ferrite Core DX"
-designer: "OFL"
+designer: "Froyo Tam"
 license: "OFL"
 category: "SERIF"
 date_added: "2020-07-13"
