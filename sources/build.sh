@@ -110,7 +110,7 @@ fonts {
   filename: "FerriteCoreDX[wght].ttf"
   post_script_name: "FerriteCoreDX"
   full_name: "Ferrite Core DX"
-  copyright: "Copyright 2019 The Ferrite Core DX Project Authors (https://github.com/eliheuer/https://github.com/froyotam/ferrite-core)"
+  copyright: "Copyright 2019 The Ferrite Core DX Project Authors (https://github.com/froyotam/ferrite-core)"
 }
 subsets: "latin"
 subsets: "menu"
